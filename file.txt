@@ -1,5 +1,5 @@
 This the text file containing all the topics that have been revised.
 
 1) Conditional operator 
-2) Loops
+2) Loops (foreach, for, for of etc)
 3) Math operators
