@@ -1,1 +1,1 @@
-Revisiting the javascript basics.
+Revisiting the javascript basics loops, conditional operators, math operations.
