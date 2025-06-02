@@ -2,5 +2,5 @@ This the text file containing all the topics that have been revised.
 
 1) Conditional operator 
 2) Loops
-3) Math operator
+3) Math operators
 
